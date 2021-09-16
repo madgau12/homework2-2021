@@ -29,10 +29,7 @@ img{
 
 #red{
 	min-height: 150px;
-	padding-top: 25px; 
-	padding-bottom: 25px;
-	padding-right: 25px;
-	padding-right: 25px;
+	padding: 25px; 
 
 	background-color: #ff0000;
 	text-align: right;
@@ -40,10 +37,7 @@ img{
 
 #blue{
 	min-height: 150px;
-	padding-top: 25px; 
-	padding-bottom: 25px;
-	padding-right: 25px;
-	padding-right: 25px;
+	padding: 25px; 
 
 	background-color: #0000FF;
 	text-align: left;
@@ -51,10 +45,7 @@ img{
 
 #yellow{
 	min-height: 150px;
-	padding-top: 25px; 
-	padding-bottom: 25px;
-	padding-right: 25px;
-	padding-right: 25px;
+	padding: 25px;
 
 	background-color: #FFFF00;
 	text-align: right; 
@@ -62,10 +53,7 @@ img{
 
 #green{
 	min-height: 150px;
-	padding-top: 25px; 
-	padding-bottom: 25px;
-	padding-right: 25px;
-	padding-right: 25px;
+	padding: 25px;
 
 	background-color: #008000;
 	text-align: left; 
